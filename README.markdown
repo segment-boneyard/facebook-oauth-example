@@ -7,6 +7,9 @@
 
 These should be set in your shell or a `.env` file in the root of this project.
 
+`http://localhost:4567/` must also be whitelisted as a redirect domain in your
+Facebook app settings.
+
 ## Usage
 
 ```sh
