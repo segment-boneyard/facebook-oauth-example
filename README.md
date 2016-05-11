@@ -1,5 +1,9 @@
 # Facebook OAuth Example
 
+This is an example Facebook OAuth flow implementation. It's useful if you want
+to generate access tokens for testing the Facebook API or want an example when
+implementing the OAuth flow in your application.
+
 ## Config
 
 - CLIENT_ID
