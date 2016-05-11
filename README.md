@@ -17,6 +17,7 @@ Facebook app settings.
 ## Usage
 
 ```sh
+bundle install
 bundle exec ruby app.rb
 open http://localhost:4567/
 ```
